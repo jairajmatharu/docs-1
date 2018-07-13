@@ -1,56 +1,113 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: What we offer
+templateKey: product-page
+title: DMGT Green Book
+image: /img/products-grid1.jpg
+heading: Operating Procedures
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  The Strategy and Performance Management team is tasked with setting overall
+  Group strategy, including the allocation of capital, to deliver sustainable
+  earnings growth. We look to our Operating Companies to create ambitious,
+  long-term growth strategies for DMGT to invest behind.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+    - image: /img/image-2018-07-13-12-42-42.jpg
+      text: >-
+        Key operating principles,
+
+        • Growth strategies and associated financial plans, once agreed and
+        approved by DMGT, provide the framework within which we expect Operating
+        Companies to be run and inform how DMGT allocates capital.
+
+        • Due to the impact each Operating Company’s own strategic plan has on
+        DMGT’s fiscal budgeting process, growth strategies and budgets are to be
+        prepared realistically,
+
+        with a strong expectation of delivery.
+
+        • DMGT closely tracks actual performance versus approved strategies and
+        financial plans on a monthly basis via Performance Management
+        Dashboards.
+
+        • DMGT manages the Group in accordance with three portfolio roles –
+        Operating at scale, Focused growth and Early bets – each with distinct
+        performance objectives and contribution expectations. A robust
+        articulation of DMGT’s portfolio roles is provided in DMGT’s 2018
+        Investor Briefing.
+
+        • The Strategy & Performance Management team is committed to supporting
+        DMGT’s Operating Companies as they deliver performance outcomes in
+        accordance with their particular
+
+        Contacts
+
+        Cameron Drinkwater, Director, Strategy & Performance Management
+        (cameron.drinkwater@dmgt.com)
+
+        portfolio role. This support is provided through DMGT’s Performance
+        Improvement Programme (PIP).
+
+        • DMGT’s long-term vision is ‘Intelligent Insights. Consumer
+        Connections’, the intersection of our Consumer experience and our B2B
+        opportunities. See DMGT’s FY2017 Year End Results and 2018 Investor
+        Briefing presentation.
+
+        • Over the long-term, the Strategy & Performance Management team will
+        help DMGT take advantage of the opportunities presented by ‘Intelligent
+        Insights. Consumer Connections’ through selective organic and inorganic
+        investments, often in collaboration with DMGT’s Operating Companies and
+        management.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Action required
+
+        • The PIP includes Playbooks of best practices and execution templates
+        across five value creation levers: Product, Commercial, Technology,
+        Operations and People. Strategy & Performance Management team members
+        partner with DMGT’s Operating Companies to select and execute PIP
+        initiatives that help to address
+
+        the needs and ambitions of each company. For assistance developing and
+        executing PIP initiatives or for access to the latest library of DMGT
+        PIP Playbooks, contact the Director, Strategy & Performance Management.
+
+        • Operating Company leadership are expected to keep the Strategy &
+        Performance Management team informed of current strategic thinking and
+        priorities, as well as any changes or challenges
+
+        that may arise, through regular dialogue and updates. Monthly
+        Performance Management Dashboards provide one regular touchpoint between
+        Operating Company leadership and the Strategy & Performance Management
+        team; questions arising from the Strategy & Performance Management team
+        regarding the monthly dashboards are expected to be addressed in a
+        timely and factual manner.
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+      text: >-
+        Interactions with DMGT
+
+        • Approval to execute against a given strategic plan will be provided by
+        DMGT’s Executive Committee, Investment & Finance Committee and/or Board
+        of Directors, in accordance with the quantum of investment required and
+        degree of strategic pivot implied. Refer to the Approvals Limit table
+        for further information.
+
+        • Approvals should be sought via the Approvals meeting.
+
+        • Should Operating Company leadership not wish to involve the Strategy &
+        Performance Management team in PIP initiative or a strategic review,
+        DMGT requires that the Director, Strategy & Performance Management be
+        kept abreast of all work and be invited to provide input throughout.
+
+        • Performance Management Dashboard KPIs should be set by Operating
+        Company CEOs and CFOs and the Strategy & Performance Management team,
+        with monthly discussions to update on strategic progress and any changes
+        in trajectory.
+  heading: Strategy
+  description: |-
+    Key operating principles 
+    strategy 
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: x
+  description: x
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -69,6 +126,7 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
+  - {}
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
@@ -91,11 +149,10 @@ pricing:
         - Up to 4 different varieties of beans
       plan: Big
       price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+    - items:
+        - whatever
+        - wherever.
+      plan: 'Another new one '
+      price: 'EXPENSIVE '
 ---
+
