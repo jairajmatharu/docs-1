@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: DMGT Green Book
-image: /img/settings.png
+image: /img/products-grid1.jpg
 heading: Operating Procedures
 description: >-
   The Strategy and Performance Management team is tasked with setting overall
@@ -39,10 +39,29 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: Strategy
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Key operating principles
+
+    • Growth strategies and associated financial plans, once agreed and approved
+    by DMGT, provide the framework within which we expect Operating Companies to
+    be run and inform how DMGT allocates capital.
+
+    • Due to the impact each Operating Company’s own strategic plan has on
+    DMGT’s fiscal budgeting process, growth strategies and budgets are to be
+    prepared realistically,
+
+    with a strong expectation of delivery.
+
+    • DMGT closely tracks actual performance versus approved strategies and
+    financial plans on a monthly basis via Performance Management Dashboards.
+
+    • DMGT manages the Group in accordance with three portfolio roles –
+    Operating at scale, Focused growth and Early bets – each with distinct
+    performance objectives and contribution expectations. A robust articulation
+    of DMGT’s portfolio roles is provided in DMGT’s 2018 Investor Briefing.
+
+    • The Strategy & Performance Management team is committed to supporting
+    DMGT’s Operating Companies as they deliver performance outcomes in
+    accordance with their particular
 main:
   heading: Great coffee with no compromises
   description: >
