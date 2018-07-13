@@ -58,24 +58,49 @@ intro:
         management.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Action required
+
+        • The PIP includes Playbooks of best practices and execution templates
+        across five value creation levers: Product, Commercial, Technology,
+        Operations and People. Strategy & Performance Management team members
+        partner with DMGT’s Operating Companies to select and execute PIP
+        initiatives that help to address
+
+        the needs and ambitions of each company. For assistance developing and
+        executing PIP initiatives or for access to the latest library of DMGT
+        PIP Playbooks, contact the Director, Strategy & Performance Management.
+
+        • Operating Company leadership are expected to keep the Strategy &
+        Performance Management team informed of current strategic thinking and
+        priorities, as well as any changes or challenges
+
+        that may arise, through regular dialogue and updates. Monthly
+        Performance Management Dashboards provide one regular touchpoint between
+        Operating Company leadership and the Strategy & Performance Management
+        team; questions arising from the Strategy & Performance Management team
+        regarding the monthly dashboards are expected to be addressed in a
+        timely and factual manner.
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: >-
+        Interactions with DMGT
+
+        • Approval to execute against a given strategic plan will be provided by
+        DMGT’s Executive Committee, Investment & Finance Committee and/or Board
+        of Directors, in accordance with the quantum of investment required and
+        degree of strategic pivot implied. Refer to the Approvals Limit table
+        for further information.
+
+        • Approvals should be sought via the Approvals meeting.
+
+        • Should Operating Company leadership not wish to involve the Strategy &
+        Performance Management team in PIP initiative or a strategic review,
+        DMGT requires that the Director, Strategy & Performance Management be
+        kept abreast of all work and be invited to provide input throughout.
+
+        • Performance Management Dashboard KPIs should be set by Operating
+        Company CEOs and CFOs and the Strategy & Performance Management team,
+        with monthly discussions to update on strategic progress and any changes
+        in trajectory.
   heading: Strategy
   description: |-
     Key operating principles 
