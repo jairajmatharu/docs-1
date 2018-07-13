@@ -10,13 +10,52 @@ description: >-
   long-term growth strategies for DMGT to invest behind.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+    - image: /img/image-2018-07-13-12-42-42.jpg
+      text: >-
+        Key operating principles,
+
+        • Growth strategies and associated financial plans, once agreed and
+        approved by DMGT, provide the framework within which we expect Operating
+        Companies to be run and inform how DMGT allocates capital.
+
+        • Due to the impact each Operating Company’s own strategic plan has on
+        DMGT’s fiscal budgeting process, growth strategies and budgets are to be
+        prepared realistically,
+
+        with a strong expectation of delivery.
+
+        • DMGT closely tracks actual performance versus approved strategies and
+        financial plans on a monthly basis via Performance Management
+        Dashboards.
+
+        • DMGT manages the Group in accordance with three portfolio roles –
+        Operating at scale, Focused growth and Early bets – each with distinct
+        performance objectives and contribution expectations. A robust
+        articulation of DMGT’s portfolio roles is provided in DMGT’s 2018
+        Investor Briefing.
+
+        • The Strategy & Performance Management team is committed to supporting
+        DMGT’s Operating Companies as they deliver performance outcomes in
+        accordance with their particular
+
+        Contacts
+
+        Cameron Drinkwater, Director, Strategy & Performance Management
+        (cameron.drinkwater@dmgt.com)
+
+        portfolio role. This support is provided through DMGT’s Performance
+        Improvement Programme (PIP).
+
+        • DMGT’s long-term vision is ‘Intelligent Insights. Consumer
+        Connections’, the intersection of our Consumer experience and our B2B
+        opportunities. See DMGT’s FY2017 Year End Results and 2018 Investor
+        Briefing presentation.
+
+        • Over the long-term, the Strategy & Performance Management team will
+        help DMGT take advantage of the opportunities presented by ‘Intelligent
+        Insights. Consumer Connections’ through selective organic and inorganic
+        investments, often in collaboration with DMGT’s Operating Companies and
+        management.
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -38,30 +77,9 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: Strategy
-  description: >
-    Key operating principles
-
-    • Growth strategies and associated financial plans, once agreed and approved
-    by DMGT, provide the framework within which we expect Operating Companies to
-    be run and inform how DMGT allocates capital.
-
-    • Due to the impact each Operating Company’s own strategic plan has on
-    DMGT’s fiscal budgeting process, growth strategies and budgets are to be
-    prepared realistically,
-
-    with a strong expectation of delivery.
-
-    • DMGT closely tracks actual performance versus approved strategies and
-    financial plans on a monthly basis via Performance Management Dashboards.
-
-    • DMGT manages the Group in accordance with three portfolio roles –
-    Operating at scale, Focused growth and Early bets – each with distinct
-    performance objectives and contribution expectations. A robust articulation
-    of DMGT’s portfolio roles is provided in DMGT’s 2018 Investor Briefing.
-
-    • The Strategy & Performance Management team is committed to supporting
-    DMGT’s Operating Companies as they deliver performance outcomes in
-    accordance with their particular
+  description: |-
+    Key operating principles 
+    strategy 
 main:
   heading: Great coffee with no compromises
   description: >
@@ -110,12 +128,10 @@ pricing:
         - Up to 4 different varieties of beans
       plan: Big
       price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+    - items:
+        - whatever
+        - wherever.
+      plan: 'Another new one '
+      price: 'EXPENSIVE '
 ---
 
